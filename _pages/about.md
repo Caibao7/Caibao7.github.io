@@ -9,7 +9,7 @@ profile:
   image: me.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:stevencaiyiyang@gmail.com">stevencaiyiyang@gmail.com</a></p>
+    <p>stevencaiyiyang at gmail dot com</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,8 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student in Computer Science and Technology at Fudan University. My research interests lie in robot learning, embodied AI, and world models, with a focus on learning executable actions from visual observations and scaling data for robust robotic manipulation.
+I am an undergraduate student in Computer Science and Technology at Fudan University, expected to graduate in June 2027. I am currently looking for research collaborations and PhD opportunities.
 
-I have worked on video-based action learning for human-to-robot manipulation, where the goal is to learn robot actions directly from human manipulation videos. I have also explored data generation and task augmentation for vision-language-action models in simulation, with an emphasis on improving generalization across diverse scenes and tasks.
+My research interests include **robot learning**, **embodied AI**, **imitation learning**, **vision-language-action models**, and **world models**. I am broadly interested in building embodied agents that can learn from visual observations, scalable data, and interactive environments.
 
-Before focusing on embodied AI, I worked on deep learning for multi-omics disease prediction at Fudan University. Across these experiences, I am broadly interested in connecting perception, action, and scalable data pipelines for more general-purpose embodied agents.
+Research experience:
+
+- Sep 2025-Present: Research Assistant, Video Action Models for Human-to-Robot Manipulation Learning, Engram. Advisor: Prof. Yanchao Yang; Project PI: Prof. Yi Ma.
+- Mar 2025-Sep 2025: Research Assistant, From VLM to VLA: Scaling Data for Robust Action Learning, The University of Hong Kong. Advisor: Prof. Tao Yu.
+- Jul 2024-Feb 2025: Research Assistant, Multi-omics Prediction of PD Based on Deep Learning, Fudan University. Advisor: Prof. Shanfeng Zhu.
