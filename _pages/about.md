@@ -38,4 +38,6 @@ Research experience:
 
 ## Publications
 
-Publications coming soon.
+<div class="publications">
+{% bibliography --group_by none --query @*[selected=true]* %}
+</div>
