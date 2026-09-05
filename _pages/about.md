@@ -34,7 +34,6 @@ Research experience:
 - Jun 2026 - Present: Research Assistant, Code-as-Policy for LLM-Driven Mobile Manipulation from a Human Demonstration Video, New York University. Advisor: [Prof. Sherry Yang](https://sherryy.github.io/).
 - Dec 2025 - May 2026: Research Assistant, Benchmarking Robot Imitative Ability Beyond Action Prediction, TranscEngram. Advisor: [Prof. Yanchao Yang](https://yanchaoyang.github.io/).
 - Mar 2025 - Sep 2025: Research Assistant, From VLM to VLA: Scaling Data for Robust Action Learning, The University of Hong Kong. Advisor: [Prof. Tao Yu](https://taoyds.github.io/).
-- Jul 2024 - Feb 2025: Research Assistant, Multi-omics Prediction of PD Based on Deep Learning, Fudan University. Advisor: Prof. Shanfeng Zhu.
 
 ## Publications
 
