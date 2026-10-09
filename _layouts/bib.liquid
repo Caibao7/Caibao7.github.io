@@ -200,13 +200,17 @@
       {% if entry.doi %}
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
-      {% if entry.arxiv %}
+      {% if entry.arxiv == 'coming soon' %}
+        <span class="btn btn-sm z-depth-0 coming-soon" aria-disabled="true">arXiv · coming soon</span>
+      {% elsif entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
       {% if entry.hal %}
         <a href="https://hal.science/{{ entry.hal }}" class="btn btn-sm z-depth-0" role="button">HAL</a>
       {% endif %}
-      {% if entry.bibtex_show %}
+      {% if entry.bibtex_show == 'TBD' %}
+        <span class="btn btn-sm z-depth-0 coming-soon" aria-disabled="true">Bib · TBD</span>
+      {% elsif entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
       {% if entry.html %}
@@ -216,7 +220,9 @@
           <a href="{{ entry.html | prepend: '/assets/html/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
         {% endif %}
       {% endif %}
-      {% if entry.pdf %}
+      {% if entry.pdf == 'coming soon' %}
+        <span class="btn btn-sm z-depth-0 coming-soon" aria-disabled="true">PDF · coming soon</span>
+      {% elsif entry.pdf %}
         {% if entry.pdf contains '://' %}
           <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% else %}
@@ -376,7 +382,7 @@
       </div>
     {% endif %}
 
-    {% if entry.bibtex_show %}
+    {% if entry.bibtex_show and entry.bibtex_show != 'TBD' %}
       <!-- Hidden bibtex block -->
       <div class="bibtex hidden">
         {% highlight bibtex %}

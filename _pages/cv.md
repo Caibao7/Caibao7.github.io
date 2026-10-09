@@ -19,14 +19,20 @@ My research interests include robot learning, embodied AI, imitation learning, v
 
 ## Research Experience
 
-I am currently working on video action models for human-to-robot manipulation learning. This work studies how robots can learn executable manipulation actions from human videos, with attention to data collection, benchmark construction, and model evaluation across human, robot, and simulated domains.
+My research explores how robots can learn from human and turn that knowledge into actions in the physical world. I am particularly interested in understanding the intent behind a demonstration and adapting it to new environments, objects, and embodiments.
 
-I am also interested in the application of world models to robot learning, including but not limited to using world models for robot policies and for evaluating robot behavior.
+Through my work on robot learning, I have become interested in how scalable data and interaction with the environment can support generalization. I hope to build embodied agents that connect perception, reasoning, and action, and continually refine their behavior through experience.
 
-Previously, I worked on scaling data for robust action learning with vision-language-action models. I also have experience applying deep learning to multi-omics disease prediction.
+I am also interested in world models as a way to anticipate the consequences of actions, guide robot policies, and evaluate behavior beyond action prediction.
 
 ## Skills
 
-Programming: C/C++, Python, Git.
+**Programming & ML:** Python, C/C++, Git, PyTorch.
 
-Machine learning and robotics: PyTorch, ManiSkill, robot manipulation, imitation learning.
+**Robot Platforms & Simulation:** Real-robot deployment on YOR mobile manipulators, AgileX Nero and Piper arms, and Franka arms; simulation in ManiSkill.
+
+**Robot Learning:** Imitation learning, vision-language-action (VLA) models, video-conditioned policies, and data pipelines.
+
+**Perception & Control:** ROS 2, RGB-D perception, camera–robot calibration, inverse kinematics, navigation, and motion planning with cuRobo and mplib.
+
+**Languages:** Mandarin (native), English (TOEFL iBT: 5.5/6).
