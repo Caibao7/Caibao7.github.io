@@ -4,7 +4,6 @@ permalink: /cv/
 title: profile
 nav: true
 nav_order: 2
-description: A brief academic profile.
 toc:
   sidebar: left
 ---
@@ -35,4 +34,4 @@ I am also interested in world models as a way to anticipate the consequences of 
 
 **Perception & Control:** ROS 2, RGB-D perception, camera–robot calibration, inverse kinematics, navigation, and motion planning with cuRobo and mplib.
 
-**Languages:** Mandarin (native), English (TOEFL iBT: 5.5/6).
+**Languages:** Mandarin (native), English (fluent).

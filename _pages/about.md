@@ -32,7 +32,7 @@ My research interests include **robot learning**, **embodied AI**, **physical ag
 Research experience:
 
 - Jun 2026 - Present: Research Assistant, MoCAP: Zero-Shot Mobile Manipulation from Passive Human Videos, NYU Courant. Advisor: [Prof. Sherry Yang](https://sherryy.github.io/).
-- Dec 2025 - May 2026: Research Assistant, Benchmarking Robot Imitative Ability Beyond Action Prediction, TranscEngram. Advisor: [Prof. Yanchao Yang](https://yanchaoyang.github.io/).
+- Dec 2025 - May 2026: Research Assistant, The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction, TranscEngram. Advisor: [Prof. Yanchao Yang](https://yanchaoyang.github.io/).
 - Mar 2025 - Sep 2025: Research Assistant, From VLM to VLA: Scaling Data for Robust Action Learning, The University of Hong Kong. Advisor: [Prof. Tao Yu](https://taoyds.github.io/).
 
 ## Publications
