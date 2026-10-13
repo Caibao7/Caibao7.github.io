@@ -27,7 +27,7 @@ latest_posts:
 
 I am an undergraduate student in Computer Science and Technology at Fudan University, expected to graduate in June 2027. I am currently looking for research collaborations and PhD opportunities.
 
-My research interests include **robot learning**, **embodied AI**, **physical agents**, and **world models**. I am broadly interested in building embodied agents that can learn from visual observations, scalable data, and interactive environments.
+My research focuses on **robot learning from human experience**, particularly task understanding and adaptive behavior across environments and embodiments.
 
 Research experience:
 
