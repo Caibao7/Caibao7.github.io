@@ -18,8 +18,10 @@ My research interests center on how robots can acquire transferable task and int
 
 ## Skills
 
-**Programming & ML:** Python, C/C++, Git.
+**Programming:** Python, C/C++, MATLAB, Verilog.
 
-**Toolkits:** PyTorch, ROS 2, cuRobo, mplib, ManiSkill.
+**ML:** PyTorch, JAX/Flax, PEFT/LoRA, imitation learning.
 
-**Robot Platforms:** YOR mobile manipulators; AgileX Nero and Piper arms; Franka arms.
+**Toolkits:** Git, ROS 2/Nav2, cuRobo, mplib, ManiSkill/SAPIEN, LeRobot.
+
+**Robot Platforms:** YOR mobile manipulator, AgileX Nero and Piper arms, Franka arms.
