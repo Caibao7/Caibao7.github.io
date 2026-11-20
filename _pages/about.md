@@ -35,6 +35,10 @@ Research experience:
 - Dec 2025 - May 2026: Research Assistant, The Imitator Game: Benchmarking Robot Imitative Ability Beyond Action Prediction, TranscEngram. Advisor: [Prof. Yanchao Yang](https://yanchaoyang.github.io/).
 - Mar 2025 - Sep 2025: Research Assistant, RoboInF: Scaling Robot Manipulation Data in Simulation, The University of Hong Kong. Advisor: [Prof. Tao Yu](https://taoyds.github.io/).
 
+Industry Experience:
+
+- Nov 2026 - Present: Embodied AI Research Intern (Foundation Models), Sharpa Robotics.
+
 Outside research, I enjoy playing football and am a member of the Fudan University football team, playing as a striker (ST) and left winger (LW).
 
 ## Publications
