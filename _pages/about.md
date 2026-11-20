@@ -37,7 +37,7 @@ Research experience:
 
 Industry Experience:
 
-- Nov 2026 - Present: Embodied AI Research Intern (Foundation Models), Sharpa Robotics.
+- Nov 2026 - Present: Embodied AI Research Intern (Foundation Models), [Sharpa Robotics](https://www.sharpa.com/).
 
 Outside research, I enjoy playing football and am a member of the Fudan University football team, playing as a striker (ST) and left winger (LW).
 
